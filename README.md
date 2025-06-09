@@ -14,7 +14,7 @@ A web-based interactive 3D simulation of the solar system built with [Three.js](
 ## Demo
 
 Try the live demo here:  
-`https://<your-username>.github.io/<your-repo-name>/`
+`https://NischayVerma21.github.io/3d-solar-system/`
 
 ## Technologies Used
 
@@ -27,4 +27,5 @@ Try the live demo here:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/<your-username>/<your-repo-name>.git
+   git clone https://github.com/NischayVerma21/3d-solar-system.git
+
